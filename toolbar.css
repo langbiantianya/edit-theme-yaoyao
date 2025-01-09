@@ -1,0 +1,24 @@
+.yaoyao-theme {
+  /* $editorBg */
+  --color-bg-base:  #ffffff;
+  /* $toolbarBg */
+  --color-bg-toolBar: #ffffff;
+  /* $toolbarBg */
+  --color-bg-button: #ffffff;
+  /* color5 */
+  --color-bg-button-hover: #51cf66;
+  /* color9 */
+  --color-text-toolBar: #2b8a3e;
+  /* color9 */
+  --color-text-button: #2b8a3e;
+  /* color0 */
+  --color-text-button-hover: #ebfbee;
+  /* color9 */
+  --color-text-base: #2b8a3e;
+  /* color9 */
+  --color-text-input: #2b8a3e;
+  /* 自定义 */
+  --color-border-select: #c5c5c5;
+  /* $editorBg */
+  --color-bg-input:  #ffffff;
+}
